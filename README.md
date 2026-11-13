@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="PuneRunners" width="100%">
+
 # PuneRunners
 
 Pune's running club. No headphones. No one runs alone.
